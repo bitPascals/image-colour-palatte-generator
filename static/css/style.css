@@ -1,0 +1,152 @@
+
+header{
+    background-color: #1D2B53;
+}
+
+.nav-link{
+    color: #FAEF5D !important;
+}
+
+.fw-bold{
+    text-align: center;
+    font-size: 40px !important;
+
+}
+
+.lead.mb-4{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn.btn-outline-primary{
+    background-color: #FAEF5D;
+    margin-top: 0px;
+    border: 0px;
+    border-radius: 4px;
+    color: #1D2B53;
+}
+
+.file{
+    border-radius: 4px;
+    font-size: 5px;
+    margin-left: 100px;
+}
+
+
+.choose_color{
+    margin-top:10px;
+}
+
+.btn.btn-outline-primary:hover {
+    background-color: #FAEF5D;
+    color: #1D2B53;
+
+}
+
+.btn.btn-primary{
+    background: #FAEF5D !important;
+}
+
+{
+            box-sizing: border-box;
+            margin: 0%;
+            padding: 0%;
+        }
+
+        header, form, main{
+            margin: auto;
+            width: 70%;
+            font-family: Helvetica;
+            padding: 1.1rem 1.2rem;
+        }
+
+        header > h1{
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        header > p{
+            color: gray;
+            font-size: 1.2rem;
+        }
+
+        form{
+            background-color: #424769;
+            color: #FAEF5D;
+            text-align: center !important;
+            padding: 20px !important;
+            border-radius: 10px;
+            margin-top: 70px;
+            margin-bottom: 20px;
+        }
+
+        input{
+            margin: 10px 0;
+        }
+
+        input[type='submit'], input[type='file']{
+            font-size: 1.2rem;
+        }
+
+        input:hover{
+            cursor: pointer;
+        }
+
+        input[type='submit']{
+            padding: 0.5rem 0.8rem;
+            border: 2px solid #003333;
+            background-color: #003333;
+            color: white;
+            border-radius: 4px;
+        }
+
+        main{
+            padding: 0;
+        }
+
+
+
+        .pair{
+            width: 50%;
+            display: flex;
+            margin: auto;
+            align-items: center;
+        }
+
+        .hex{
+            margin-top: 50px;
+        }
+
+        .pair > .color-box{
+            width: 80%;
+            height: 50px;
+            border: .3px solid #D8D9DA;
+            text-align: center;
+            padding: 1.1%;
+            margin: 0;
+            margin-left: 10px
+        }
+
+        .did{
+            margin-bottom: 40px;
+        }
+
+        .pair > .color-box-value{
+            width: 50%;
+            height: 50px;
+            border: .3px solid #D8D9DA;
+            text-align: center;
+            padding: 1.1%;
+            margin: 0;
+        }
+
+        .container{
+            background-color: #1D2B53;
+            color: #FAEF5D !important;
+
+        }
+
+        .mb-3.mb-md-0.text-body-secondary{
+            color: #FAEF5D !important;
+        }
